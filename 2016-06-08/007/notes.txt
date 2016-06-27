@@ -1,0 +1,1 @@
+* Full test of demo software stack

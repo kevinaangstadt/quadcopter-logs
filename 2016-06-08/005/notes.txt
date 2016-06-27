@@ -1,0 +1,1 @@
+* ran attack_2.py in tandem with mission (go to next waypoint, don't protect)

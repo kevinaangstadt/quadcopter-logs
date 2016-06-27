@@ -1,0 +1,1 @@
+* ran attack.py in tandem with mission (goto next, protect circle)

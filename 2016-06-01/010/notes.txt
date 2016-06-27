@@ -1,0 +1,2 @@
+* Raspberry Pi manual flight test
+* Failure: no power to motors

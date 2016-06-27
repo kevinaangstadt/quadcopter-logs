@@ -1,0 +1,3 @@
+* Setting waypoints
+* Switched into repair mode at each waypoint
+* Very windy

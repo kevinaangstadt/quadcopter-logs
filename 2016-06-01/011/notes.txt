@@ -1,0 +1,2 @@
+* Raspberry Pi automated flight test
+* Failure: no power to motors (the autopilot board was burnt out)

@@ -1,0 +1,2 @@
+* Full test of demo software stack
+* crashed on loitering due to bad data in safe hover command

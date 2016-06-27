@@ -1,0 +1,1 @@
+* Ran automated waypoint flight

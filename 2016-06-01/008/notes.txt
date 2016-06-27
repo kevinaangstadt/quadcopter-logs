@@ -1,0 +1,4 @@
+* attack_2.py run in tandem with mission (move to next wpt, don't protect)
+* crashed into ground at second cone
+* very low altitude at fourth cone
+* possible low battery?

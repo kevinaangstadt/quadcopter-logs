@@ -1,0 +1,2 @@
+* attack.py was run in tandem with this trial
+* quadcopter hit the ground at the second cone, but recovered

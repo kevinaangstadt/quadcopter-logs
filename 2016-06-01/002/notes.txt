@@ -1,0 +1,4 @@
+002: test with wifi off and phones off
+
+wifi seems to have no effect
+dropped off when phones back on
