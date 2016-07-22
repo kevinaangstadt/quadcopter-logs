@@ -1,0 +1,2 @@
+Several flights to debug GC commands
+Quadcopter was being spamming with mode changes causing lock-up

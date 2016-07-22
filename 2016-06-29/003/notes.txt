@@ -1,0 +1,3 @@
+Tested alteration of attack 1.
+* With each protect, altitude doubled
+* This causes the copter to move directly up in the sky

@@ -1,0 +1,5 @@
+Full test of system
+* Mission plan includes ROIs to point at cones
+* Attack occurred between cones 1 and 2
+* RC-GC-(TA) returned Iris+ to safe location, found new plan and executed
+* Low battery at cone 4, but still completed

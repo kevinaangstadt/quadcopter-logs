@@ -1,0 +1,2 @@
+Debuggin on GC.  Attack was run from same computer as GC, testing multiple
+--out flags

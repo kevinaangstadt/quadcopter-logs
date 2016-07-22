@@ -1,0 +1,3 @@
+Test of Attack 3
+This attack includes an ROI to turn the quadcopter camera and push the copter
+away
