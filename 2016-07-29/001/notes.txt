@@ -1,0 +1,3 @@
+Simulated mission
+- No ROIs
+- Just the Attack
